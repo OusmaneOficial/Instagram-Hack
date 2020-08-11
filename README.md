@@ -13,8 +13,7 @@ I'm no longer maintaining this project.
 
 ### Support me
 
-> **Bitcoin wallet:** 3Kr5C9t9HWwPfqzSNXeBNyRvJWw9sSLeKy<br> >**PayPal:** https://www.paypal.me/Msheikh03
-
+>**PayPal:** https://paypal.me/ousmaneoficial
 ### Requirements
 
 -   Python _v3.x.x_
